@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.Campos {
+  padding: 10px 0px 10px 0px;
+}
+
+input {
+  height: 20px;
+  width: 1000px;
+  border-radius: 3px;
+  border: 1px solid;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: cornflowerblue;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: blue;
+}
+
+.resultado {
+  margin: 30px;
+}
