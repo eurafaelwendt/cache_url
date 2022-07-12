@@ -1,7 +1,6 @@
 {
   "name": "cache_url",
   "version": "0.1.0",
-  "homepage": "cache_url/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
