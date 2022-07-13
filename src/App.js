@@ -42,7 +42,7 @@ function App() {
           {routeparcial}
         </div>
         <div>
-          {metadata && route && <button onClick={Limpar}>Limpar</button>}
+          {(metadata || route) && <button onClick={Limpar}>Limpar</button>}
         </div>
       </div>
     );
