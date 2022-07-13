@@ -38,7 +38,7 @@ const Resultado = () => {
 
   return (
     <div className="App">
-      <h2>LIMPEZA DE CACHE DE URL</h2>
+      <h2>LIMPEZA DE CACHE - URL</h2>
       <div className='Campos'><input onChange={listenerInputMetada} placeholder='Insira a URL inteira do Metadata'></input></div>
       <div className='Campos'><input onChange={listenerInputRoute} placeholder='Insira a URL inteira do Route'></input></div>
       <button onClick={Gerar}>Gerar</button>
